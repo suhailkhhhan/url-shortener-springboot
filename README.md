@@ -209,26 +209,3 @@ GET /api/top
 * Focused on building scalable backend systems
 
 ---
-
-## ⭐ Why This Project?
-
-This project demonstrates:
-
-* Backend system design thinking
-* Performance optimization using caching
-* API design and real-world problem solving
-* Production-level features beyond CRUD
-
----
-
-## 📌 Resume Highlight
-
-> Built a scalable URL shortening service using Spring Boot, MySQL, and Redis with features like caching, rate limiting, custom URLs, and analytics tracking.
-
----
-
-## 🙌 Contribution
-
-Feel free to fork, improve, and raise PRs.
-
----
